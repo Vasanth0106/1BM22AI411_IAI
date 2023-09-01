@@ -1,6 +1,9 @@
 # 1BM22AI411_IAI
-Bot_saves_princies ::submission->
-Bot_saves_princies ::output->
+Bot_saves_princies ::submission->![Screenshot_20230901_185738.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/c1922653-238d-4e6c-9008-35ff98434ee8)
+
+
+Bot_saves_princies ::output->![Screenshot_20230901_185859.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/5dba4eef-4181-4474-9f7c-c16fec6c8a8d)
+
 N puzzle::submission->![Screenshot_2023_0901_182855.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/d0efb999-1f9c-462c-8ae3-57b4e7820ab3)
 
 
