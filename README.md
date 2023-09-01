@@ -16,7 +16,9 @@ Basic probability puzzle#2::submission->
 Basic probability puzzle#2::output->
 Basic probability puzzle#7::submission->
 Basic probability puzzle#7::output->
-Packman problem::submission->
+Packman problem::submission->![Screenshot_20230901_192903.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/d17bb780-8c14-43c5-a08f-997c4be144d6)
+
+
 
 packman problem:: output->![Screenshot_20230901_192322.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/7047a021-994e-4e1e-9f08-d7765e260670)
 
