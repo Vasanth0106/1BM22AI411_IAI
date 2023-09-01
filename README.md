@@ -1,8 +1,12 @@
 # 1BM22AI411_IAI
-Bot_saves_princies ::submission->![Screenshot_20230901_185738.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/c1922653-238d-4e6c-9008-35ff98434ee8)
+Bot_saves_princies ::submission->![Screenshot_20230901_193101.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/f0a85ebc-fb46-49a0-945a-66753a7b205a)
 
 
-Bot_saves_princies ::output->![Screenshot_20230901_185859.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/5dba4eef-4181-4474-9f7c-c16fec6c8a8d)
+
+
+Bot_saves_princies ::output->![Screenshot_20230901_193400.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/9a9b8e6c-4a80-438c-88b7-602b38c8aa80)
+
+
 
 N puzzle::submission->![Screenshot_20230901_191023.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/6b9a1019-7174-43d6-900f-3108c0e0583e)
 
