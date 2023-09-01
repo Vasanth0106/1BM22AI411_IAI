@@ -4,7 +4,9 @@ Bot_saves_princies ::submission->![Screenshot_20230901_185738.jpg](https://githu
 
 Bot_saves_princies ::output->![Screenshot_20230901_185859.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/5dba4eef-4181-4474-9f7c-c16fec6c8a8d)
 
-N puzzle::submission->![Screenshot_2023_0901_182855.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/d0efb999-1f9c-462c-8ae3-57b4e7820ab3)
+N puzzle::submission->![Screenshot_20230901_191023.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/6b9a1019-7174-43d6-900f-3108c0e0583e)
+
+
 
 
 N puzzle::output->
