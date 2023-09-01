@@ -1,7 +1,9 @@
 # 1BM22AI411_IAI
 Bot_saves_princies ::submission->
 Bot_saves_princies ::output->
-N puzzle::submission->
+N puzzle::submission->![Screenshot_2023_0901_182855.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/d0efb999-1f9c-462c-8ae3-57b4e7820ab3)
+
+
 N puzzle::output->
 Basic probability puzzle#2::submission->
 Basic probability puzzle#2::output->
