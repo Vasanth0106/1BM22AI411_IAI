@@ -9,7 +9,9 @@ N puzzle::submission->![Screenshot_20230901_191023.jpg](https://github.com/Vasan
 
 
 
-N puzzle::output->
+N puzzle::output->![Screenshot_20230901_191813.jpg](https://github.com/Vasanth0106/1BM22AI411_IAI/assets/139615614/c361b252-9326-4c70-a9aa-51977e868979)
+
+
 Basic probability puzzle#2::submission->
 Basic probability puzzle#2::output->
 Basic probability puzzle#7::submission->
